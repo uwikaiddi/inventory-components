@@ -74,8 +74,8 @@ const FormField = styled.div`
     padding: 12px;
 
     & * {
-        display: block;
-        font-size: 16px;
+      display: block;
+      font-size: 16px;
     }
 `
 
