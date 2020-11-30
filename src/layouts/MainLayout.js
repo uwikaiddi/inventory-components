@@ -36,8 +36,8 @@ function MainLayout({ children }) {
 }
 
 const MainContainer = styled.main`
-  display: flex;
   color: #444444;
+  display: flex;
   font-family: sans-serif;
   height: 90vh;
 `
