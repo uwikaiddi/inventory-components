@@ -26,8 +26,8 @@ const FullWidth = styled.div`
 
 const ViewIcon = styled.div`
   background-color: #d2bba2;
-  height: 20px;
-  width: 50px;
+  height: 25px;
+  width: 25px;
 `
 
 export default ItemList
